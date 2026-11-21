@@ -1,6 +1,6 @@
 # bgm
 
-微风小栈的 Bangumi 追番数据仓库，由 GitHub Actions 定时同步，GitHub Pages 提供静态访问。
+BREEZE BLOG 的 Bangumi 追番数据仓库，由 GitHub Actions 定时同步，GitHub Pages 提供静态访问。
 
 ## 地址
 
