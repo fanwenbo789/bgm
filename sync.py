@@ -25,7 +25,7 @@ TOKEN_FILE = ROOT / ".bgm_token"
 DATA_FILE = ROOT / "data.json"
 COVER_DIR = ROOT / "covers"
 API = "https://api.bgm.tv"
-USER_AGENT = "akabane-bgm-data/1.0"
+USER_AGENT = "breeze-bgm-data/1.0"
 STATUS = {1: "想看", 2: "看过", 3: "在看"}
 
 # 只在追番页展示正篇，隐藏 OAD、剧场版、番外和衍生作。

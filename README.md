@@ -1,6 +1,6 @@
 # bgm
 
-赤羽 Akabane 的 Bangumi 追番数据仓库，由 GitHub Actions 定时同步，GitHub Pages 提供静态访问。
+微风小栈的 Bangumi 追番数据仓库，由 GitHub Actions 定时同步，GitHub Pages 提供静态访问。
 
 ## 地址
 
@@ -8,7 +8,7 @@
 - 封面：`https://fanwenbo789.github.io/bgm/covers/<subject_id>.webp`
 - 仓库：`fanwenbo789/bgm`（public）
 
-追番页在 `https://www.akabane.cn/anime/` 运行时读取 `data.json`。
+追番页在 `https://www.breeze.moe/anime/` 运行时读取 `data.json`。
 
 ## 文件
 
