@@ -28,17 +28,6 @@ API = "https://api.bgm.tv"
 USER_AGENT = "breeze-bgm-data/1.0"
 STATUS = {1: "想看", 2: "看过", 3: "在看"}
 
-# 只在追番页展示正篇，隐藏 OAD、剧场版、番外和衍生作。
-HIDDEN_SUBJECT_IDS = {
-    268726,  # 关于我转生变成史莱姆这档事 OAD
-    299673,  # 转生史莱姆日记
-    350185,  # 剧场版 红莲之绊篇
-    421174,  # 柯里乌斯之梦
-    515595,  # 剧场版 苍海之泪篇
-    302523,  # 第二季 第2部分
-    616596,  # 第四季 第3部分
-}
-
 COVER_SIZE = (480, 480)
 
 
@@ -97,7 +86,7 @@ def fetch_collections(username, token):
             page = data.get("data") or []
             for row in page:
                 subject = row.get("subject") or {}
-                if not subject or subject.get("id") in HIDDEN_SUBJECT_IDS:
+                if not subject:
                     continue
                 images = subject.get("images") or {}
                 image_url = (
