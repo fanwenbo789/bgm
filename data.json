@@ -36,6 +36,21 @@
    "updated_at": "2026-11-20T18:15:20+08:00"
   },
   {
+   "id": 616596,
+   "title": "关于我转生变成史莱姆这档事 第四季 第3部分",
+   "original": "転生したらスライムだった件 第4期 第3クール",
+   "status": "想看",
+   "type": 1,
+   "ep_status": 0,
+   "eps": 0,
+   "score": null,
+   "date": "",
+   "cover": "covers/616596.webp",
+   "color": "#968844",
+   "url": "https://bgm.tv/subject/616596",
+   "updated_at": "2026-11-20T17:59:44+08:00"
+  },
+  {
    "id": 239816,
    "title": "关于我转生变成史莱姆这档事",
    "original": "転生したらスライムだった件",
@@ -66,6 +81,66 @@
    "updated_at": "2026-11-20T17:59:23+08:00"
   },
   {
+   "id": 299673,
+   "title": "转生史莱姆日记",
+   "original": "転スラ日記 転生したらスライムだった件",
+   "status": "看过",
+   "type": 2,
+   "ep_status": 12,
+   "eps": 12,
+   "score": 6.7,
+   "date": "2021-04-06",
+   "cover": "covers/299673.webp",
+   "color": "#b67f52",
+   "url": "https://bgm.tv/subject/299673",
+   "updated_at": "2026-11-20T17:59:25+08:00"
+  },
+  {
+   "id": 302523,
+   "title": "关于我转生变成史莱姆这档事 第二季 第2部分",
+   "original": "転生したらスライムだった件 第2期 2",
+   "status": "看过",
+   "type": 2,
+   "ep_status": 12,
+   "eps": 12,
+   "score": 6.1,
+   "date": "2021-07-06",
+   "cover": "covers/302523.webp",
+   "color": "#68c6e7",
+   "url": "https://bgm.tv/subject/302523",
+   "updated_at": "2026-11-20T17:59:27+08:00"
+  },
+  {
+   "id": 350185,
+   "title": "剧场版 关于我转生变成史莱姆这档事 红莲之绊篇",
+   "original": "劇場版 転生したらスライムだった件 紅蓮の絆編",
+   "status": "看过",
+   "type": 2,
+   "ep_status": 1,
+   "eps": 1,
+   "score": 5.8,
+   "date": "2022-11-25",
+   "cover": "covers/350185.webp",
+   "color": "#426592",
+   "url": "https://bgm.tv/subject/350185",
+   "updated_at": "2026-11-20T17:59:30+08:00"
+  },
+  {
+   "id": 421174,
+   "title": "关于我转生变成史莱姆这档事 柯里乌斯之梦",
+   "original": "転生したらスライムだった件 コリウスの夢",
+   "status": "看过",
+   "type": 2,
+   "ep_status": 3,
+   "eps": 3,
+   "score": 5.9,
+   "date": "2023-11-01",
+   "cover": "covers/421174.webp",
+   "color": "#c65990",
+   "url": "https://bgm.tv/subject/421174",
+   "updated_at": "2026-11-20T17:59:32+08:00"
+  },
+  {
    "id": 407573,
    "title": "关于我转生变成史莱姆这档事 第三季",
    "original": "転生したらスライムだった件 第3期",
@@ -79,6 +154,36 @@
    "color": "#c9755a",
    "url": "https://bgm.tv/subject/407573",
    "updated_at": "2026-11-20T17:59:39+08:00"
+  },
+  {
+   "id": 515595,
+   "title": "剧场版 关于我转生变成史莱姆这档事 苍海之泪篇",
+   "original": "劇場版 転生したらスライムだった件 蒼海の涙編",
+   "status": "看过",
+   "type": 2,
+   "ep_status": 1,
+   "eps": 1,
+   "score": 4.9,
+   "date": "2026-02-27",
+   "cover": "covers/515595.webp",
+   "color": "#54a6cb",
+   "url": "https://bgm.tv/subject/515595",
+   "updated_at": "2026-11-20T17:59:41+08:00"
+  },
+  {
+   "id": 268726,
+   "title": "关于我转生变成史莱姆这档事 OAD",
+   "original": "転生したらスライムだった件 OAD",
+   "status": "看过",
+   "type": 2,
+   "ep_status": 5,
+   "eps": 5,
+   "score": 6.3,
+   "date": "2019-07-09",
+   "cover": "covers/268726.webp",
+   "color": "#68a5e8",
+   "url": "https://bgm.tv/subject/268726",
+   "updated_at": "2026-11-20T18:16:36+08:00"
   }
  ]
 }
