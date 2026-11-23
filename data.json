@@ -6,21 +6,6 @@
  },
  "items": [
   {
-   "id": 515594,
-   "title": "关于我转生变成史莱姆这档事 第四季",
-   "original": "転生したらスライムだった件 第4期",
-   "status": "在看",
-   "type": 3,
-   "ep_status": 12,
-   "eps": 24,
-   "score": 6.3,
-   "date": "2026-04-03",
-   "cover": "covers/515594.webp",
-   "color": "#987344",
-   "url": "https://bgm.tv/subject/515594",
-   "updated_at": "2026-11-20T18:00:26+08:00"
-  },
-  {
    "id": 378862,
    "title": "别当欧尼酱了！",
    "original": "お兄ちゃんはおしまい！",
@@ -36,6 +21,66 @@
    "updated_at": "2026-11-22T16:39:20+08:00"
   },
   {
+   "id": 515594,
+   "title": "关于我转生变成史莱姆这档事 第四季",
+   "original": "転生したらスライムだった件 第4期",
+   "status": "在看",
+   "type": 3,
+   "ep_status": 12,
+   "eps": 24,
+   "score": 6.3,
+   "date": "2026-04-03",
+   "cover": "covers/515594.webp",
+   "color": "#987344",
+   "url": "https://bgm.tv/subject/515594",
+   "updated_at": "2026-11-20T18:00:26+08:00"
+  },
+  {
+   "id": 622206,
+   "title": "尼古喵喵",
+   "original": "ヤニねこ",
+   "status": "想看",
+   "type": 1,
+   "ep_status": 0,
+   "eps": 12,
+   "score": 7.5,
+   "date": "2026-07-02",
+   "cover": "covers/622206.webp",
+   "color": "#a97e4c",
+   "url": "https://bgm.tv/subject/622206",
+   "updated_at": "2026-11-23T13:56:07+08:00"
+  },
+  {
+   "id": 407573,
+   "title": "关于我转生变成史莱姆这档事 第三季",
+   "original": "転生したらスライムだった件 第3期",
+   "status": "看过",
+   "type": 2,
+   "ep_status": 24,
+   "eps": 24,
+   "score": 5.7,
+   "date": "2024-04-05",
+   "cover": "covers/407573.webp",
+   "color": "#c9775a",
+   "url": "https://bgm.tv/subject/407573",
+   "updated_at": "2026-11-20T17:59:39+08:00"
+  },
+  {
+   "id": 278031,
+   "title": "关于我转生变成史莱姆这档事 第二季",
+   "original": "転生したらスライムだった件 第2期",
+   "status": "看过",
+   "type": 2,
+   "ep_status": 12,
+   "eps": 12,
+   "score": 6.1,
+   "date": "2021-01-12",
+   "cover": "covers/278031.webp",
+   "color": "#ac4d52",
+   "url": "https://bgm.tv/subject/278031",
+   "updated_at": "2026-11-20T17:59:23+08:00"
+  },
+  {
    "id": 239816,
    "title": "关于我转生变成史莱姆这档事",
    "original": "転生したらスライムだった件",
@@ -49,36 +94,6 @@
    "color": "#5996c5",
    "url": "https://bgm.tv/subject/239816",
    "updated_at": "2026-11-20T17:59:19+08:00"
-  },
-  {
-   "id": 278031,
-   "title": "关于我转生变成史莱姆这档事 第二季",
-   "original": "転生したらスライムだった件 第2期",
-   "status": "看过",
-   "type": 2,
-   "ep_status": 12,
-   "eps": 12,
-   "score": 6.1,
-   "date": "2021-01-12",
-   "cover": "covers/278031.webp",
-   "color": "#ad4e52",
-   "url": "https://bgm.tv/subject/278031",
-   "updated_at": "2026-11-20T17:59:23+08:00"
-  },
-  {
-   "id": 407573,
-   "title": "关于我转生变成史莱姆这档事 第三季",
-   "original": "転生したらスライムだった件 第3期",
-   "status": "看过",
-   "type": 2,
-   "ep_status": 24,
-   "eps": 24,
-   "score": 5.7,
-   "date": "2024-04-05",
-   "cover": "covers/407573.webp",
-   "color": "#c9755a",
-   "url": "https://bgm.tv/subject/407573",
-   "updated_at": "2026-11-20T17:59:39+08:00"
   }
  ]
 }

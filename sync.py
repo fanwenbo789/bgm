@@ -224,7 +224,9 @@ def main():
         time.sleep(0.2)
 
     order = {"在看": 0, "想看": 1, "看过": 2}
-    items.sort(key=lambda item: (order.get(item["status"], 9), item.get("updated_at") or ""))
+    # 同状态内按更新时间倒序，页面直接按 data.json 顺序渲染。
+    items.sort(key=lambda item: item.get("updated_at") or "", reverse=True)
+    items.sort(key=lambda item: order.get(item["status"], 9))
 
     write_json(items, {
         "id": me.get("id"),

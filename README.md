@@ -12,7 +12,7 @@ BREEZE BLOG 的 Bangumi 追番数据仓库，由 GitHub Actions 定时同步，G
 
 ## 文件
 
-- `sync.py`：拉取 Bangumi 动画收藏，过滤番外，下载并裁成 480×480 WebP 封面，写入 `data.json`
+- `sync.py`：拉取 Bangumi 动画收藏，下载并裁成 480×480 WebP 封面，写入 `data.json`；同状态内按更新时间倒序
 - `data.json`：页面数据，包含条目、进度、封面路径、进度条颜色
 - `covers/`：480×480 WebP 封面
 - `.github/workflows/sync.yml`：每天北京时间 12:00 同步，也可手动触发
